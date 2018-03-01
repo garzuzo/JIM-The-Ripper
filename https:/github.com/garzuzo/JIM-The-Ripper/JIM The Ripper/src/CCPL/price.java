@@ -16,6 +16,8 @@ public class price {
 
 		hm.put(0, 0l);
 		
+		
+		
 		String caso;
 		while ((caso = lect.readLine()) != null) {
 
